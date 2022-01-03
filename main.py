@@ -2,7 +2,7 @@
 name = "Raven"
 print(name)
 
-name = "Khadijah"
+name = "Kate"
 print(name)
 
 name = input("what is your name? ")
